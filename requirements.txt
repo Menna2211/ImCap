@@ -1,0 +1,8 @@
+streamlit
+huggingface-hub
+torch
+transformers
+tokenizers
+torchvision
+numpy
+tqdm
